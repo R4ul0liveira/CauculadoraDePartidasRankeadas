@@ -1,0 +1,14 @@
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\bin\Debug\net8.0\Cauculadora de partidas rankeadas.exe
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\bin\Debug\net8.0\Cauculadora de partidas rankeadas.deps.json
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\bin\Debug\net8.0\Cauculadora de partidas rankeadas.runtimeconfig.json
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\bin\Debug\net8.0\Cauculadora de partidas rankeadas.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\bin\Debug\net8.0\Cauculadora de partidas rankeadas.pdb
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.AssemblyInfoInputs.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.AssemblyInfo.cs
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.csproj.CoreCompileInputs.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\refint\Cauculadora de partidas rankeadas.dll
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.pdb
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\Cauculadora de partidas rankeadas.genruntimeconfig.cache
+C:\Users\jiuma\OneDrive\Documentos\projeto\projetos - dio\Cauculadora de partidas rankeadas\obj\Debug\net8.0\ref\Cauculadora de partidas rankeadas.dll

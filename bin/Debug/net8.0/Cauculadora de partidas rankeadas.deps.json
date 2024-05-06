@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cauculadora de partidas rankeadas/1.0.0": {
+        "runtime": {
+          "Cauculadora de partidas rankeadas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cauculadora de partidas rankeadas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
